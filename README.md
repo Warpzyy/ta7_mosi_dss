@@ -32,5 +32,5 @@ Notebook: buka `TA07_Simulasi_PM10_Jakarta.ipynb` di Jupyter/VS Code/Google Cola
 3. Klik **Create app**, pilih repositori dan branch, isi **Main file path** dengan `app.py`, lalu **Deploy**.
 4. Salin link aplikasi (`...streamlit.app`) ke laporan dan README.
 
-Link aplikasi: (isi setelah deploy)  
+Link aplikasi: https://ta7mosidss-warpsyy.streamlit.app/
 Link video demo: (isi setelah upload)
